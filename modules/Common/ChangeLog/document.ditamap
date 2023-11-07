@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Список изменений</title>
+ <topicmeta>
+  <prodinfo>
+   <prodname>Модуль репликации справочников</prodname>
+   <prognum>5.5.2</prognum>
+  </prodinfo>
+  <othermeta name="docver" content="1.0"></othermeta>
+ </topicmeta>
+ <topicref href="topics/changes.md" format="mdita" props=""></topicref>
+</map>

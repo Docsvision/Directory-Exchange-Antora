@@ -1,0 +1,7 @@
+[[ariaid-title1]]
+== Архитектура модуля
+
+* *xref:../topics/GeneralDescriptionArchitecture.adoc[Общее описание архитектуры]* +
+* *xref:../topics/SystemComponents.adoc[Компоненты системы]* +
+* *xref:../topics/DescriptionSynchronizationProcess.adoc[Описание процесса синхронизации]* +
+* *xref:../topics/ConflictResolution.adoc[Разрешение конфликтов]* +
