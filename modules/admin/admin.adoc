@@ -1,12 +1,10 @@
-== Руководство администратора
-
 * xref:topics/General_information.adoc[Общие сведения]
 ** xref:topics/Purpose_and_function.adoc[Назначение и функции]
 ** xref:topics/Required_resources.adoc[Необходимые ресурсы]
 *** xref:topics/Required_resources_hardware.adoc[Необходимое техническое обеспечение]
 *** xref:topics/Required_resources_software.adoc[Необходимое программное обеспечение]
 **** xref:topics/Databases.adoc[База данных]
-*** xref:topics/Required_database.adoc[Требования к системе Docsvision]
+*** xref:topics/Required_database.adoc[Требования к системе {dv}]
 *** xref:topics/Required_resources_network.adoc[Требования к каналам связи]
 *** xref:topics/License.adoc[Лицензия]
 * xref:topics/Structure.adoc[Архитектура модуля]
@@ -20,7 +18,7 @@
 ** xref:topics/HowConfig.adoc[Подготовка к работе]
 *** xref:topics/FillingDirectoryServers.adoc[Заполнение справочника серверов]
 *** xref:topics/CreateProfile.adoc[Создание профиля подключения]
-*** xref:topics/SetCurrentServerDatabaseDocsvision.adoc[Установка текущего сервера в БД Docsvision]
+*** xref:topics/SetCurrentServerDatabase{dv}.adoc[Установка текущего сервера в БД {dv}]
 *** xref:topics/InstallReplicationService.adoc[Установка Сервиса репликации справочников]
 ** xref:topics/Uninstall.adoc[Удаление]
 * xref:topics/Administrator_functions.adoc[Функции администратора]

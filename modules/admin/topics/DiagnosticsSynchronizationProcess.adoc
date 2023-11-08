@@ -1,7 +1,4 @@
-[[ariaid-title1]]
-== Диагностика процесса синхронизации
+= Диагностика процесса синхронизации
 
-* *xref:../topics/JournalSynchronizedData.adoc[Журнал синхронизированных данных]* +
-* *xref:../topics/LogSynchronizationService.adoc[Журнал Сервиса репликации справочников]* +
-
-*На уровень выше:* xref:../topics/Administrator_functions.adoc[Функции администратора]
+* xref:JournalSynchronizedData.adoc[Журнал синхронизированных данных]
+* xref:LogSynchronizationService.adoc[Журнал Сервиса репликации справочников]

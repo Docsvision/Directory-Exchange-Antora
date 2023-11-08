@@ -1,8 +1,5 @@
-[[ariaid-title1]]
-== Требования к системе Docsvision
+= Требования к системе {dv}
 
-БД системы Docsvision 5.5 должна функционировать под управлением СУБД Microsoft SQL Server. Работа с системой Docsvision с БД PostgreSQL НЕ поддерживается.
+БД системы {dv} 5.5 должна функционировать под управлением СУБД Microsoft SQL Server. Работа с системой {dv} с БД PostgreSQL НЕ поддерживается.
 
-Данная версия модуля не совместима с Docsvision версии 5.4.
-
-*Parent topic:* xref:../topics/Required_resources.adoc[Необходимые ресурсы]
+Данная версия модуля не совместима с {dv} версии 5.4.

@@ -1,7 +1,6 @@
-[[ariaid-title1]]
-== Функции администратора
+= Функции администратора
 
-* *xref:../topics/ConfiguringScriptSynchronization.adoc[Настройка сценария синхронизации]* +
-* *xref:../topics/CreateNewConnectionProfile.adoc[Создание нового профиля подключения]* +
-* *xref:../topics/DiagnosticsSynchronizationProcess.adoc[Диагностика процесса синхронизации]* +
-* *xref:../topics/AfterPlatformUpdate.adoc[Действия после обновления Платформы]* +
+* xref:ConfiguringScriptSynchronization.adoc[Настройка сценария синхронизации]
+* xref:CreateNewConnectionProfile.adoc[Создание нового профиля подключения]
+* xref:DiagnosticsSynchronizationProcess.adoc[Диагностика процесса синхронизации]
+* xref:AfterPlatformUpdate.adoc[Действия после обновления Платформы]

@@ -1,7 +1,6 @@
-[[ariaid-title1]]
-== Установка и настройка
+= Установка и настройка
 
-* *xref:../topics/Installation_kit.adoc[Состав установочного комплекта]* +
-* *xref:../topics/Install_server.adoc[Установка Модуля]* +
-* *xref:../topics/HowConfig.adoc[Подготовка к работе]* +
-* *xref:../topics/Uninstall.adoc[Удаление]* +
+* xref:Installation_kit.adoc[Состав установочного комплекта]
+* xref:Install_server.adoc[Установка Модуля]
+* xref:HowConfig.adoc[Подготовка к работе]
+* xref:Uninstall.adoc[Удаление]
