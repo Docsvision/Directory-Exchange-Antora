@@ -1,6 +1,6 @@
 * Изменения, обновления и исправленные ошибки
 ** xref:change-log.adoc[]
 *** xref:bugs.adoc[]
-** xref:patches-log.adoc[Накопительные обновления]
-* xref:conditions.adoc[Условия обновления]
-* xref:howupdate.adoc[Порядок обновления]
+** xref:patches-log.adoc[]
+* xref:conditions.adoc[]
+* xref:howupdate.adoc[]
