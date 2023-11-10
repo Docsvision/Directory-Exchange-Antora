@@ -3,4 +3,3 @@
 *** xref:bugs.adoc[]
 ** xref:patches-log.adoc[]
 * xref:conditions.adoc[]
-* xref:howupdate.adoc[]

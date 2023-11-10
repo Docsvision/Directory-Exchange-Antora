@@ -1,4 +1,0 @@
-= Диагностика процесса синхронизации
-
-* xref:JournalSynchronizedData.adoc[Журнал синхронизированных данных]
-* xref:LogSynchronizationService.adoc[Журнал Сервиса репликации справочников]

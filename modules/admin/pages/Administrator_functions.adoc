@@ -1,6 +1,0 @@
-= Функции администратора
-
-* xref:ConfiguringScriptSynchronization.adoc[Настройка сценария синхронизации]
-* xref:CreateNewConnectionProfile.adoc[Создание нового профиля подключения]
-* xref:DiagnosticsSynchronizationProcess.adoc[Диагностика процесса синхронизации]
-* xref:AfterPlatformUpdate.adoc[Действия после обновления Платформы]

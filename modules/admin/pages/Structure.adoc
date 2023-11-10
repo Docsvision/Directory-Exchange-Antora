@@ -1,6 +1,0 @@
-= Архитектура модуля
-
-* xref:GeneralDescriptionArchitecture.adoc[Общее описание архитектуры]
-* xref:SystemComponents.adoc[Компоненты системы]
-* xref:DescriptionSynchronizationProcess.adoc[Описание процесса синхронизации]
-* xref:ConflictResolution.adoc[Разрешение конфликтов]

@@ -1,6 +1,0 @@
-= Установка и настройка
-
-* xref:Installation_kit.adoc[Состав установочного комплекта]
-* xref:Install_server.adoc[Установка Модуля]
-* xref:HowConfig.adoc[Подготовка к работе]
-* xref:Uninstall.adoc[Удаление]
