@@ -1,6 +1,0 @@
-.Модуль репликации справочников
-* xref:index.adoc[]
-** xref:module-structure.adoc[]
-
-* Требования
-** xref:requirements.adoc[]
