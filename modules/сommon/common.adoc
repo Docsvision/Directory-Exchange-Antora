@@ -2,4 +2,4 @@
 ** xref:change-log.adoc[]
 *** xref:bugs.adoc[]
 ** xref:patches-log.adoc[]
-* xref:conditions.adoc[]
+** xref:conditions.adoc[]
