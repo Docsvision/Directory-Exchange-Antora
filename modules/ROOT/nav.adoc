@@ -1,4 +1,4 @@
-.Модуль репликации справочников
+.xref:index.adoc[Модуль репликации справочников]
 * xref:index.adoc[]
 ** xref:module-structure.adoc[]
 
