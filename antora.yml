@@ -14,7 +14,7 @@ asciidoc:
 
 nav:
 - modules/ROOT/nav.adoc
-- modules/сommon/common.adoc
+- modules/common/common.adoc
 - modules/admin/admin.adoc
 
 #  start_page: ROOT:index.adoc
